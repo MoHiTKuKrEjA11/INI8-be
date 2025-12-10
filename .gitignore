@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Environment variables
+.env
+*.env
+
+# Flask specific
+instance/
+*.db
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
